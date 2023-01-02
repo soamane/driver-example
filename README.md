@@ -1,3 +1,2 @@
 # driver-example
-Only C++ driver with RPM/WPM functions and terminate process by process id
-DeviceIoControl method
+Only C++ driver with RPM/WPM functions | Terminate process by PID |DeviceIoControl method
