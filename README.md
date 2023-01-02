@@ -1,2 +1,2 @@
 # driver-example
-C++ driver with RPM/WPM functions
+Only C++ driver with RPM/WPM functions and terminate process by process id
