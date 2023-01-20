@@ -4,4 +4,4 @@ This driver provided by DeviceIoControl method
 ## Driver functions
 - **ReadProcessMemory** 
 - **WriteProcessMemory**
-- **Terminate process by PID** 
+- **Terminate process by procees id** 
