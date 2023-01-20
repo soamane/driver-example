@@ -1,4 +1,4 @@
 # Driver Example
-Only C++ driver with **ReadProcessMemory/WriteProcessMemory** functions 
+## C++ driver (DeviceIoControl)
+**ReadProcessMemory/WriteProcessMemory** functions 
 Terminate process by PID 
-DeviceIoControl method
