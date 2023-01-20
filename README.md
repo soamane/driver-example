@@ -1,5 +1,5 @@
 # Driver Example
 ## C++ driver (DeviceIoControl)
 + **ReadProcessMemory** 
-+ **WriteProcessMemory** functions 
++ **WriteProcessMemory**
 + **Terminate process by PID** 
